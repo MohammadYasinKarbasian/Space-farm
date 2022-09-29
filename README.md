@@ -1,22 +1,22 @@
-# AP_Project
+# Space farm
 A game like "Hay Day" but written in Qt (C++)
 
-![login](https://user-images.githubusercontent.com/82156191/171078309-f1fa4f74-8196-40fd-95d9-860ff8ecb806.png)
+![login](https://user-images.githubusercontent.com/82156191/193087695-15017205-8988-4cd4-b28c-e0fa79b13a3f.png)
 
-![signup](https://user-images.githubusercontent.com/82156191/171078343-e489630e-dfe3-4be8-ab55-789a9f8add8e.png)
+![signup](https://user-images.githubusercontent.com/82156191/193087748-190567af-851f-4e14-9615-6124e0dd79cd.png)
 
-![farm](https://user-images.githubusercontent.com/82156191/171078256-418da8fb-2272-4138-a74b-6abdbfe41990.png)
+![farm](https://user-images.githubusercontent.com/82156191/193087775-065c9cb5-8617-4b7b-b327-db10f95ce6fd.png)
 
-![store](https://user-images.githubusercontent.com/82156191/171078369-68a3cb7e-27c9-4028-8114-7a5260022e31.png)
+![store](https://user-images.githubusercontent.com/82156191/193087807-d6e7d381-8605-4fd8-ace6-1e5183afc172.png)
 
-![sheep pasture](https://user-images.githubusercontent.com/82156191/171078413-22039028-ca58-49e1-80aa-6a6c25b26273.png)
+![sheep pasture](https://user-images.githubusercontent.com/82156191/193087819-470ee01b-63aa-458d-b8a8-2db5f333bdc1.png)
 
-![cow pasture](https://user-images.githubusercontent.com/82156191/171078417-f3ae404e-72a7-40e4-948b-dc77473c9130.png)
+![cow pasture](https://user-images.githubusercontent.com/82156191/193087838-5d498c6f-004c-449a-89b9-71d1d010dea9.png)
 
-![chicken coop](https://user-images.githubusercontent.com/82156191/171078434-98796a47-a695-42c5-a0fd-3f68def22850.png)
+![chicken coop](https://user-images.githubusercontent.com/82156191/193087879-27e906b9-5c37-4be9-bdbe-1575f1eafa26.png)
 
-![alfalfa field](https://user-images.githubusercontent.com/82156191/171078488-2bde80be-03dc-49fe-99a7-62071f2c93a1.png)
+![alfalfa](https://user-images.githubusercontent.com/82156191/193087918-55b9283a-78df-44a0-a332-84d361f77be5.png)
 
-![score board](https://user-images.githubusercontent.com/82156191/171078523-fc0c2a6d-3d94-4f86-897c-6adcc98de574.png)
+![score board](https://user-images.githubusercontent.com/82156191/193087940-107edcce-393b-41d2-98ba-88614d99e1db.png)
 
-![score board1](https://user-images.githubusercontent.com/82156191/171078551-b6117420-757f-4c52-8f19-38ee2e4c9ccc.png)
+![score board1](https://user-images.githubusercontent.com/82156191/193087972-59ec3417-7467-4bac-a273-73514ffba46f.png)
