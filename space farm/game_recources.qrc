@@ -1,0 +1,119 @@
+<RCC>
+    <qresource prefix="/game_backgrounds">
+        <file>pics_project/138manfarmer2_100718.png</file>
+        <file>pics_project/139womanfarmer1_100885 (1).png</file>
+        <file>pics_project/anbar.png</file>
+        <file>pics_project/cow.png</file>
+        <file>pics_project/farm_barn_icon_153817.png</file>
+        <file>pics_project/gandom.png</file>
+        <file>pics_project/hen.png</file>
+        <file>pics_project/joe.png</file>
+        <file>pics_project/pngwing.com.png</file>
+        <file>pics_project/sheep.png</file>
+        <file>pics_project/background-scene-with-green-field_1308-8895 (1).jpg</file>
+        <file>pics_project/silo.png</file>
+        <file>pics_project/favpng_grocery-store-shopping-clip-art.png</file>
+        <file>pics_project/favpng_common-wheat-cereal-ear-illustration.png</file>
+        <file>pics_project/favpng_vaisakhi.png</file>
+        <file>pics_project/Tea_plant.png</file>
+        <file>pics_project/sun.png</file>
+        <file>pics_project/egg.png</file>
+        <file>pics_project/shelf.png</file>
+        <file>pics_project/shovel.png</file>
+        <file>pics_project/store_cow.png</file>
+        <file>pics_project/store_hen.png</file>
+        <file>pics_project/store_milk.png</file>
+        <file>pics_project/store_sheep.png</file>
+        <file>pics_project/store_wheat.png</file>
+        <file>pics_project/wool.png</file>
+        <file>pics_project/nail.png</file>
+        <file>pics_project/login_background_2.jpg</file>
+        <file>pics_project/alfalfa_icon.jpg</file>
+        <file>pics_project/images.jfif</file>
+        <file>pics_project/wheat_icon.jfif</file>
+        <file>pics_project/alfalfa-plant.jpg</file>
+        <file>pics_project/hennouse.jpg</file>
+        <file>pics_project/upgrade.png</file>
+        <file>pics_project/egg_collecting.png</file>
+        <file>pics_project/feeding_hen.png</file>
+        <file>pics_project/chickens-chicken-coop-farm_43633-10574.jpg</file>
+        <file>pics_project/push botton.png</file>
+        <file>pics_project/cow (2).png</file>
+        <file>pics_project/cow feeding.png</file>
+        <file>pics_project/cow milking.png</file>
+        <file>pics_project/cowhouse.png</file>
+        <file>pics_project/wheat_silo.jpeg</file>
+        <file>pics_project/coin.png</file>
+        <file>pics_project/animated-farm-image-0046.gif</file>
+        <file>pics_project/cutinf fleece.png</file>
+        <file>pics_project/Farm 02.jpg</file>
+        <file>pics_project/feeding sheep.png</file>
+        <file>pics_project/file_icon.jpg</file>
+        <file>pics_project/houseicon.png</file>
+        <file>pics_project/login_background.jpg</file>
+        <file>pics_project/rainbow-home-farm-logo-icon-element-and-template-vector-25225793.jpg</file>
+        <file>pics_project/sheep (2).png</file>
+        <file>pics_project/sheephouse.jpg</file>
+        <file>pics_project/wheat_dialog_background.jpg</file>
+        <file>pics_project/barn.jpg</file>
+        <file>pics_project/egg box.png</file>
+        <file>pics_project/wooden box.png</file>
+        <file>pics_project/egg_box.png</file>
+        <file>pics_project/silo back.jpg</file>
+        <file>pics_project/egg_pack.png</file>
+        <file>pics_project/box2.png</file>
+        <file>pics_project/shovel2.png</file>
+        <file>pics_project/milk box.png</file>
+        <file>pics_project/alfalfa bale.png</file>
+        <file>pics_project/number-icon-png-14-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-15-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-16-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-17-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-18-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-19-removebg-preview.png</file>
+        <file>pics_project/number-icon-png-20-removebg-preview.png</file>
+        <file>pics_project/nail (2).png</file>
+        <file>pics_project/collector.png</file>
+        <file>pics_project/chain.png</file>
+        <file>pics_project/fence.png</file>
+        <file>pics_project/farmland.jpg</file>
+        <file>pics_project/half_wheat.png</file>
+        <file>pics_project/wheat-removebg-preview.png</file>
+        <file>pics_project/seeding.png</file>
+        <file>pics_project/buildicon.png</file>
+        <file>pics_project/alfalfaseed.png</file>
+        <file>pics_project/alfalfa_field.jpg</file>
+        <file>pics_project/alfa.png</file>
+        <file>pics_project/alfalfa_field-removebg-preview.png</file>
+        <file>pics_project/plow.png</file>
+        <file>pics_project/profile use.png</file>
+        <file>pics_project/woman farmer.png</file>
+        <file>pics_project/log in.jpg</file>
+        <file>pics_project/log in (2).jpg</file>
+        <file>pics_project/welcome.png</file>
+        <file>pics_project/sign.png</file>
+        <file>pics_project/sign up (2).jpg</file>
+        <file>pics_project/sign up.jpg</file>
+        <file>pics_project/first.png</file>
+        <file>pics_project/second.png</file>
+        <file>pics_project/third.png</file>
+        <file>pics_project/profile back.jpg</file>
+        <file>pics_project/grass.png</file>
+        <file>pics_project/exp.png</file>
+        <file>pics_project/level.png</file>
+        <file>pics_project/farm back.jpg</file>
+        <file>pics_project/land1.png</file>
+        <file>pics_project/land2.png</file>
+        <file>pics_project/land3.png</file>
+        <file>pics_project/land4.png</file>
+        <file>pics_project/silo (2).png</file>
+        <file>pics_project/barn.png</file>
+        <file>pics_project/back.png</file>
+        <file>pics_project/next.png</file>
+        <file>pics_project/b1.png</file>
+        <file>pics_project/b2.png</file>
+        <file>pics_project/rope.png</file>
+        <file>pics_project/lader.png</file>
+        <file>pics_project/refresh.png</file>
+    </qresource>
+</RCC>
